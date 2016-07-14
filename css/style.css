@@ -135,7 +135,6 @@ body {
 .logform {
     width: 560px;
     margin: 0 auto;
-
 }
 
 .form-header {
@@ -197,7 +196,6 @@ body {
 
 .fb-logo {
     padding: 5px 8px 0 11px;
-
 }
 
 .fb-text {
@@ -220,8 +218,8 @@ body {
     margin-top: -8px;
     border-right: 1px solid #4d68ab;
     background-color: #1f3d73;
-    
 }
+
 .separator {
     padding: 33px 0;
 }
@@ -289,5 +287,4 @@ button {
     font-size: 11px;
     text-align: center;
     line-height: 1.5;
-
 }
