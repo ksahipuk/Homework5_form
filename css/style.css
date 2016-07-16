@@ -59,6 +59,7 @@ body {
     width: 100%;
     color: #60b5ed;
 }
+
 .menu li:hover {
     height: 36px;
     background-color: #4eabda;
@@ -105,7 +106,7 @@ body {
 
 .log-button {
     float: left;
-    height: 35px;
+    height: 36px;
     padding: 10px;
     border: 1px solid #4a9cd6;
     background: rgba(81,177,220,1);
