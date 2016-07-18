@@ -25,6 +25,7 @@
 }
 
 body {
+    position: relative;
     background-color: white;
     font-family: 'Helvetica Neue Regular', Tahoma, sans-serif;
     font-size: 14px;
@@ -127,7 +128,6 @@ body {
 .main-content {
     width: 1215px;
     height: 1029px;
-    position: relative;
     background-image: url('../img/bg-img.jpg');
     -webkit-background-size: cover;
     background-size: cover;
@@ -137,10 +137,11 @@ body {
     width: 560px;
     height: 614px;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -307px;
-    margin-left: -280px;
+    left: 0; 
+    right: 0;
+    top: 0; 
+    bottom: 0;
+    margin: auto;
 }
 
 .form-header {
