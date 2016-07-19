@@ -134,7 +134,7 @@ body {
 
 .main-content {
     width: 1215px;
-    height: 1029px;
+    height: 100%;
     background-image: url('../img/bg-img.jpg');
     -webkit-background-size: cover;
     background-size: cover;
