@@ -24,17 +24,24 @@
     box-sizing: border-box;
 }
 
+html {
+    height: 100%;
+}
+
 body {
-    position: relative;
+    height: 100%;
     background-color: white;
     font-family: 'Helvetica Neue Regular', Tahoma, sans-serif;
     font-size: 14px;
     color: #c5c5c4;
 }
 
+
 .container {
-    height: 1064px;
+    position: relative;  
+    height: 100%;
     width: 1215px;
+    min-height: 685px;
     margin: 0 auto;
 }
 
